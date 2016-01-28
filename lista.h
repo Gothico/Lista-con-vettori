@@ -9,7 +9,7 @@ REALIZZAZIONE TEMPLATE DI LISTA IMPLEMENTATA CON VETTORE
               La realizzzazione è molto elementare: è basata sul semplice
               accesso sequenziale del vettore lineare.
 
-Autore: Riccardo Monterisi  www.riccardomonterisi.tk
+Autore: Riccardo Monterisi  http://riccardomonterisi.altervista.org/
 
 **************************************************************************/
 
